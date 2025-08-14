@@ -34,8 +34,8 @@ summary_task = Task(
 )
 
 translation_task = Task(
-    description='Translate the summary to Turkish',
-    expected_output="Turkish translation of the hook documentation",
+    description='Translate the summary to marathi',
+    expected_output="marathi translation of the hook documentation",
     agent=translator,
     dependencies=[summary_task] # Must run after the summary task
 )
