@@ -16,10 +16,4 @@ You give it a **startup idea**, and it generates:
 - Runs locally with **Streamlit** UI.
 
 ---
-
-## 🛠 Installation
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/hackathon-in-a-box.git
-cd hackathon-in-a-box
+0
